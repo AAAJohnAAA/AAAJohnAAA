@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your_username&theme=onedark&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AAAJohnAAA&theme=onedark&row=1&column=6" />
 </p>
 
 ---
