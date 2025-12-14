@@ -3,9 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I%27m+John!;Welcome+to+my+GitHub+Profile!" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AAAJohnAAA&theme=onedark&row=1&column=6" />
-</p>
 
 ---
 
